@@ -1,0 +1,19 @@
+.vpfr_timers,.vpfr_player_controls button,.vpfr_volume_progress_bar {
+  display: none!important;
+}
+
+.vpfr_container{
+  width: 100%!important;
+}
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+}
+
+.carousel .carousel-status{
+  display: none!important;
+}
